@@ -103,3 +103,4 @@ api.smoot.apple.com
 webhook.logentries.com
 sdk.split.io
 sway.cloud.microsoft
+@@||sway.cloud.microsoft^$important
