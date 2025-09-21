@@ -73,7 +73,7 @@ config.samsungads.com
 _ldap._tcp.83a0d2fb-d68f-4bd8-be62-312720c028be.domains._msdcs.bechtle.net
 _ldap._tcp.datacenter-global._sites.dc._msdcs.bechtle.net
 _ldap._tcp.dc._msdcs.bechtle.net
-_ldap._tcp.shdefbg._sites.dc._msdcs.bechtle.net
+_ldap._tcp.shdefbg._sites.dc._msdcs.bechtle.nethttps://github.com/dmichel999/AdGuard/blob/main/Allow-list
 aka.ms
 amazon.de
 app.gitbook.com
@@ -104,3 +104,4 @@ webhook.logentries.com
 sdk.split.io
 sway.cloud.microsoft
 @@||sway.cloud.microsoft^$important
+@@||dekra-akademie.de
